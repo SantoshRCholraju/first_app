@@ -1,5 +1,10 @@
 == Welcome to Rails
 
+This is my first Rails application.
+Done using tutorial:
+[*Ruby on Rails Tutorial: Learn Rails by Example] (http://railstutorial.org/) by [Michael Hartl]
+
+
 Rails is a web-application framework that includes everything needed to create
 database-backed web applications according to the Model-View-Control pattern.
 
